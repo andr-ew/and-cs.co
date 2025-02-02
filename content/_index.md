@@ -26,8 +26,8 @@ draft: false
 <br>
 
 ## Code + Objects
-- [wrld](./wrld) _2020 – now_
-- [open source furniture](./furniture) _2022 – now_
+- [wrld](./pages/wrld) _2020 – now_
+- [open source furniture](./pages/furniture) _2022 – now_
 - [prosody](https://github.com/andr-ew/prosody) _2019_
 
 <br>

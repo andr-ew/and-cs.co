@@ -23,3 +23,6 @@ menus:
         - name: About / Press
           pageRef: /about
           weight: 20
+        - name: All Pages
+          pageRef: /pages
+          weight: 30
