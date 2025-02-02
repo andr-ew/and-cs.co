@@ -1,0 +1,25 @@
+baseURL: 'https://example.org/'
+languageCode: 'en-us'
+title: 'and-cs.co'
+timeout: '300s'
+module:
+    imports:
+        path: 'github.com/future-wd/hugo-responsive-images'
+params:
+    image:
+        render_hook: True
+        widths: [600, 720, 900, 1300, 1440]
+        sizes: '(max-width: 1050px) 100vw, 1000px'
+        formats: [webp, original]
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+menus:
+    main:
+        - name: Home
+          pageRef: /
+          weight: 10
+        - name: About / Press
+          pageRef: /about
+          weight: 20

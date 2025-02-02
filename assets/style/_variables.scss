@@ -1,0 +1,42 @@
+$margin-top-desktop: 50px;
+$margin-top-mobile: $margin-top-desktop;
+
+$color-yellow: #ffe05a;
+
+@font-face {
+    font-family: 'Inconsolata';
+    src:
+        url('/fonts/Inconsolata-Regular.woff2') format('woff2'),
+        url('/fonts/Inconsolata-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Neue Montreal';
+    src:
+        url('/fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
+        url('/fonts/PPNeueMontreal-Regular.ttf') format('truetype');
+}
+
+@mixin monospace {
+    font-family: 'Inconsolata', monospace;
+    font-size: 19px;
+}
+
+@mixin sans {
+    font-family: 'Neue Montreal', sans-serif;
+    font-size: 18px;
+}
+
+@mixin mobile {
+    @media (max-width: 1050px) {
+        @content;
+    }
+}
+
+@mixin desktop {
+    @media (min-width: 1050px) {
+        @content;
+    }
+}
+
+$home-margin-x-mobile: 10px;
