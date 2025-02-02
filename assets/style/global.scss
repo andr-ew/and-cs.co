@@ -127,10 +127,31 @@ ul {
 
 .mainNav {
     position: fixed;
+    z-index: 10;
+
+    ul {
+        display: flex;
+
+        @include desktop {
+            gap: 4ch;
+        }
+        @include mobile {
+            width: 100%;
+            justify-content: space-between;
+        }
+    }
 
     @include desktop {
         bottom: calc(100vh - #{$margin-top-desktop});
         left: $margin-top-desktop;
+    }
+    @include mobile {
+        left: 0;
+        top: 0;
+        right: 0;
+
+        padding: $home-margin-x-mobile;
+        background-color: $color-yellow;
     }
 
     a:any-link {

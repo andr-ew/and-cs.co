@@ -1,6 +1,8 @@
 $margin-top-desktop: 50px;
 $margin-top-mobile: $margin-top-desktop;
 
+$home-margin-x-mobile: 10px;
+
 $color-yellow: #ffe05a;
 
 @font-face {
@@ -38,5 +40,3 @@ $color-yellow: #ffe05a;
         @content;
     }
 }
-
-$home-margin-x-mobile: 10px;
