@@ -34,7 +34,7 @@ draft: false
 
 <br>
 
-## Sometimes uses internet [bandcamp](https://andrewcs.bandcamp.com/), [spotify](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx), [bluesky](https://bsky.app/profile/and-cs.bsky.social), [pixelfed](https://pixelfed.social/and-cs), [youtube](https://www.youtube.com/@andrewcs_), [instagram](https://instagram.com/@_and.rew__), [are.na](https://www.are.na/andrew-cs), [soundcloud](https://soundcloud.com/a-ndrewcs)
+## Sometimes uses internet [bandcamp](https://andrewcs.bandcamp.com/), [spotify](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx), [bluesky](https://bsky.app/profile/and-cs.bsky.social), [pixelfed](https://pixelfed.social/and-cs), [youtube](https://www.youtube.com/@andrewcs_), [instagram](https://instagram.com/_and.rew__), [are.na](https://www.are.na/andrew-cs), [soundcloud](https://soundcloud.com/a-ndrewcs)
 
 ## Would like u to email them [and-cs@pm.me](mailto:and-cs@pm.me)
 
