@@ -81,7 +81,7 @@ picture {
 a:any-link {
     color: inherit;
 
-    @include sans;
+    // @include sans;
 
     text-decoration-line: underline;
     // text-underline-offset: 2px;
