@@ -22,4 +22,11 @@ a collection of four letter scripts for [monome norns](https://monome.org/docs/n
 
 <br>
 
+development tools
+
+-   [nest\_](https://github.com/andr-ew/nest_): depricated – a lua object-oriented UX library for monome devices. tl;dr - react for monome
+-   crops: forthcoming - a functional programming sucessor to nest\_
+
+<br>
+
 ask questions at [llllllll.co/c/library](llllllll.co/c/library)
