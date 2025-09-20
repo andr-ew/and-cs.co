@@ -6,7 +6,8 @@ draft: false
 
 ![A photo of and standing in front of a tree in the sun](and.jpeg)
 
-# Andrew CS (And) is a many media artist from the american midwest seeking worlds within human media, memory, and biology during the anthropocene.
+# Andrew CS (And) is a many media artist from the american midwest seeking worlds within media, cognition, and biology during the anthropocene.
+
 
 Their music has been released by [leaving records](https://leavingrecords.com) and [cached media](https://cached.media). Their visual art has been in exhibitions presented by [waiting room](https://waitingroomart.com/) and open space.
 <br>
