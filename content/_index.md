@@ -17,6 +17,7 @@ draft: false
 ## Sounds + Images
 
 -   [time-find.ing](https://time-find.ing) _2023 – now_
+-   [ᵒ˶°´](https://leavingrecords.com/ant) _2025_
 -   [caught in pointers](https://leavingrecords.com/caught-in-pointers) _2024_
 -   [caught in pointers (the exhibition)](https://pointers.space/) _2024_
 -   [nimi](https://cached.media/nimi) _2022_
