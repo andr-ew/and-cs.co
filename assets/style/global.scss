@@ -52,7 +52,7 @@ main {
 
 * {
     text-transform: lowercase;
-    text-decoration-thickness: 1.5px;
+    // text-decoration-thickness: 1.5px;
 }
 
 h1 {
@@ -130,40 +130,66 @@ ul {
     }
 }
 
-.mainNav {
-    position: fixed;
-    z-index: 10;
+header {
+    .mainNav {
+        position: fixed;
+        z-index: 10;
 
-    ul {
-        display: flex;
+        ul {
+            display: flex;
+
+            @include desktop {
+                gap: 4ch;
+            }
+            @include mobile {
+                width: 100%;
+                justify-content: space-between;
+            }
+        }
 
         @include desktop {
-            gap: 4ch;
+            bottom: calc(100vh - #{$margin-top-desktop});
+            left: $margin-top-desktop;
         }
         @include mobile {
-            width: 100%;
+            display: flex;
             justify-content: space-between;
+            gap: 4ch;
+
+            left: 0;
+            top: 0;
+            right: 0;
+
+            padding: $home-margin-x-mobile;
+            background-color: $color-yellow;
+        }
+
+        a:any-link {
+            @include monospace;
+
+            &:not(.active) {
+                text-decoration-line: none;
+            }
         }
     }
+    .critter {
+        margin: 0;
 
-    @include desktop {
-        bottom: calc(100vh - #{$margin-top-desktop});
-        left: $margin-top-desktop;
-    }
-    @include mobile {
-        left: 0;
-        top: 0;
-        right: 0;
+        @include sans;
 
-        padding: $home-margin-x-mobile;
-        background-color: $color-yellow;
-    }
+        @include desktop {
+            z-index: 10;
+            position: fixed;
 
-    a:any-link {
-        @include monospace;
+            bottom: calc(100vh - #{$margin-top-desktop});
+            right: $margin-top-desktop;
+        }
+        @include mobile {
+            margin-top: -1px;
+            // right: 0;
+            // top: 0;
 
-        &:not(.active) {
-            text-decoration-line: none;
+            // padding: $home-margin-x-mobile;
         }
     }
 }

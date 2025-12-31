@@ -3,30 +3,62 @@ $margin-top-mobile: $margin-top-desktop;
 
 $home-margin-x-mobile: 10px;
 
-$color-yellow: #ffe05a;
+$color-yellow: #fae589;
+$color-text: #777777;
 
-@font-face {
-    font-family: 'Inconsolata';
-    src:
-        url('/fonts/Inconsolata-Regular.woff2') format('woff2'),
-        url('/fonts/Inconsolata-Regular.ttf') format('truetype');
+// @font-face {
+//     font-family: 'Inconsolata';
+//     src:
+//         url('/fonts/Inconsolata-Regular.woff2') format('woff2'),
+//         url('/fonts/Inconsolata-Regular.ttf') format('truetype');
+// }
+
+// @font-face {
+//     font-family: 'Neue Montreal';
+//     src:
+//         url('/fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
+//         url('/fonts/PPNeueMontreal-Regular.ttf') format('truetype');
+// }
+
+* {
+    text-decoration-skip-ink: auto;
 }
 
 @font-face {
-    font-family: 'Neue Montreal';
-    src:
-        url('/fonts/PPNeueMontreal-Regular.woff2') format('woff2'),
-        url('/fonts/PPNeueMontreal-Regular.ttf') format('truetype');
+    font-family: 'Helveticaneue';
+    src: url('/fonts/HelveticaNeue-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
 }
 
 @mixin monospace {
-    font-family: 'Inconsolata', monospace;
-    font-size: 19px;
+    // font-family: 'Inconsolata', monospace;
+    // font-size: 19px;
+    font-family: 'Courier New', monospace;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 120%; /* 25.02px */
+
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+
+    color: $color-text;
 }
 
 @mixin sans {
-    font-family: 'Neue Montreal', sans-serif;
-    font-size: 18px;
+    // font-family: 'Neue Montreal', sans-serif;
+    // font-size: 18px;
+    font-family: 'Helveticaneue', 'Helvetica', sans-serif;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 139%; /* 25.02px */
+
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+
+    color: $color-text;
 }
 
 @mixin mobile {
