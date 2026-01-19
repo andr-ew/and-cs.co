@@ -19,7 +19,7 @@ draft: false
 -   [time-find.ing](https://time-find.ing) _2023 – now_
 -   [ᵒ˶°´](https://leavingrecords.com/ant) _2025_
 -   [caught in pointers](https://leavingrecords.com/caught-in-pointers) _2024_
--   [caught in pointers (the exhibition)](https://pointers.space/) _2024_
+-   [caught in pointers (the exhibition)](https://andr-ew.github.io/cip-web/) _2024_
 -   [nimi](https://cached.media/nimi) _2022_
 -   [\*](https://leavingrecords.com/asterisk) _2021_
 -   [transition spaces](https://andrewcs.bandcamp.com/album/transition-spaces) _2020_
