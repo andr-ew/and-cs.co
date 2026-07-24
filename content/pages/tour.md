@@ -1,0 +1,4 @@
+- _Los angeles, ca_ july 29, 2026 / solarc / 3505 eagle rock blvd / free / 7:30pm
+- _new york city, ny_ august 17 / nightclub 101 / 101 Avenue A / [tickets](https://www.ticketweb.com/venue/night-club-101-new-york-ny/686683?page=2) / ?:??
+- _catskill, ny_ august 18 / avalon lounge / 29 Church St. Catskill, NY / [tickets](https://www.viewcy.com/event/andrew_cs__dani_derk)
+- _waltham, ma_ August 22 / SynthCube / 167 prospect st / free / 5-8pm
