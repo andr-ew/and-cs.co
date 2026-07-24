@@ -4,7 +4,8 @@ date: ''
 draft: false
 ---
 
-![A photo of and in the snow wearing a cute sweater and taking a selfie :3](and.png)
+![A photo of and with a white backdrop](and-2026.jpeg
+)
 
 # and c. shike is a visual artist, musician, and game developer on the autism spectrum, originally from the american midwest. their work explores autistic differences in long term memory, interpersonal connections, pattern recognition, fixation, and sensory experience through the lens of new + old media.
 
