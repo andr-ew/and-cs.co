@@ -7,7 +7,7 @@ draft: false
 ![A photo of and with a white backdrop](and-2026.jpeg
 )
 
-# andrew cs is a musician, field recordist & creative programmer from the american midwest. exploring recursive time loops through thier own digital memories, andrew’s sound blends ASMR acoustics with bending synthesized loops improvised on custom software. following a half-chance encounter with a field recorder as a teen, andrew began cataloging moments of temporary calm - archiving disk drives of present textures in conversation with a future self.
+# andrew cs is a musician & media artist originally from the american midwest. as a disabled person with ASD & auditory processing disorder, they experience a hypersensitivity to sound that renders many aspects of urban life challenging, but occasionally euphoric under the right conditions. their work explores autistic differences in sensory experience, long term memory, and human connection.
 
 Their music has been released by [leaving records](https://leavingrecords.com) and [cached media](https://cached.media). Their visual art has been in exhibitions presented by [waiting room](https://waitingroomart.com/) and open space.
 <br>
