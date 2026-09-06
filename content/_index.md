@@ -4,7 +4,7 @@ date: '2024-04-21T13:29:27-05:00'
 draft: false
 ---
 
-# And c. Shike is a musician, artist, & coder from the American midwest
+# And c. Shike is a musician & media artist from the American midwest
 
 ![A photo of a piano in a cozy room surrounded by a plant, some electronic music equipment  and wooden furniture](home.png)
 
